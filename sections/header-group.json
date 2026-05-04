@@ -78,8 +78,8 @@
           "name": "MEN Mega menu module",
           "settings": {
             "target_menu": "MEN",
-            "layout_style": "standard",
-            "column_1_groups": "FEATURED",
+            "layout_style": "grouped_columns",
+            "column_1_groups": "Featured",
             "column_2_groups": "Clothing|Shoes",
             "column_3_groups": "Grooming & Accessories|Home Objects",
             "promo_eyebrow": "",
