@@ -41,7 +41,6 @@
         "mega_menu_promo_bbRzUf": {
           "type": "mega_menu_promo",
           "name": "NEW Mega menu module",
-          "disabled": true,
           "settings": {
             "target_menu": "NEW",
             "layout_style": "editorial",
@@ -77,7 +76,7 @@
           "type": "mega_menu_promo",
           "name": "MEN Mega menu module",
           "settings": {
-            "target_menu": "MEN",
+            "target_menu": "MENS",
             "layout_style": "grouped_columns",
             "column_1_groups": "Featured",
             "column_2_groups": "Clothing|Shoes",
