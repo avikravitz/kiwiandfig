@@ -38,7 +38,6 @@
       "name": "Hero",
       "settings": {
         "image": "shopify://shop_images/kiwi_fig-site-banner_0001_3_Shot7__0403_RET.jpg",
-        "image_2": "shopify://shop_images/kiwi_fig-site-banner_0000_4_Shot7__0389_RET.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "image_behavior": "none",
