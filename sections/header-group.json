@@ -17,7 +17,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "FINAL DAYS OF OUR F/W SALE",
+            "text": "FREE SHIPPING ON ORDERS OVER $250",
             "link": ""
           }
         }
@@ -76,7 +76,7 @@
           "type": "mega_menu_promo",
           "name": "MEN Mega menu module",
           "settings": {
-            "target_menu": "MENS",
+            "target_menu": "MEN",
             "layout_style": "grouped_columns",
             "column_1_groups": "Featured",
             "column_2_groups": "Clothing|Shoes",
@@ -95,7 +95,6 @@
         "mega_menu_promo_FYxPQb",
         "mega_menu_promo_nKcGxJ"
       ],
-      "disabled": true,
       "settings": {
         "logo_position": "middle-left",
         "mobile_logo_position": "center",
