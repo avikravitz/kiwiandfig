@@ -190,10 +190,11 @@ body,
 
 /* Positions the container under the image and removes the background box */
 .collection-card-overlay-title {
-  display: block;
-  background: transparent;
-  padding: 1.5rem 0 0.5rem 0; /* Adds top breathing room between image and text */
-  text-align: left; /* Ensures it lines up with the left edge of the photo */
+  position: relative !important; /* Forces it to stop floating over the image */
+  display: block !important;
+  background: transparent !important;
+  padding: 1.5rem 0 0.5rem 0 !important; 
+  text-align: left !important; 
 }
 
 /* Styles the text to be dark grey/black since it is now on a white background */
